@@ -1,10 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mateus
 ==============================================================================================================================
 
-Data Engineer
+Software Engineer
 -------------
 
-I hold a degree in Computer Science and had the opportunity to explore web development during my time at university. Currently, I am specializing in data engineering, combining my passion for technology with a keen interest in handling and analyzing large-scale data. I am an enthusiast for video games and physical activities, valuing diversity and respecting different points of view. As a developer, I see every line of code as an opportunity to make a positive impact and every challenge as a chance for growth. I have a genuine desire to be part of the technological revolution, leaving my mark to inspire future generations. With determination and dedication, I firmly believe I can contribute to an exciting and meaningful future. I am eager to join a creative and collaborative team where I can apply my skills and passion for technology to develop solutions that truly matter.
+I have a degree in Computer Science and experience in backend development using Java, Spring Boot, and PostgreSQL. I've worked on projects involving API creation, unit testing, CI/CD, and SQL reporting, in addition to having experience with Docker, Jenkins, Kubernetes, Angular, and Azure Cloud.
+
+Self-taught and a web development enthusiast, I'm looking to deepen my knowledge of microservices-focused software architecture and the continuous improvement of scalable, high-quality backend solutions.
 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [mateushcandido5@gmail.com](mailto:mateushcandido5@gmail.com)
